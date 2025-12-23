@@ -1,4 +1,4 @@
-# 📚 Information Retrieval & NLP Projects 
+# 📚 Information Retrieval & NLP with Python
 
 This repository contains a collection of five Python projects focused on Information Retrieval (IR), Natural Language Processing (NLP), and Machine Learning.
 
