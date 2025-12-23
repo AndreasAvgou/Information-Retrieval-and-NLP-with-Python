@@ -11,11 +11,11 @@ Each project follows a **Modular Programming** architecture, splitting logic int
 To run these projects without conflicts, organize your folders as follows:
 
 ```text
-├── Project1_NLTK/          # Text Processing & Analysis
-├── Project2_SearchEngine/  # Simple Inverted Index Search
-├── Project3_Clustering/    # K-Means Document Clustering
-├── Project4_Sentiment/     # Real-Time Sentiment Analysis
-└── Project5_Recommender/   # ML-Based Recommendation System
+├── 1_NLTK/          # Text Processing & Analysis
+├── 2_SearchEngine/  # Simple Inverted Index Search
+├── 3_Clustering/    # K-Means Document Clustering
+├── 4_Sentiment/     # Real-Time Sentiment Analysis
+└── 5_Recommender/   # ML-Based Recommendation System
 ```
 
 ## 🛠️ Prerequisites & Installation
