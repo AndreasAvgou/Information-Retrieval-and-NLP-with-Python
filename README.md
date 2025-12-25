@@ -6,7 +6,7 @@ Each project follows a **Modular Programming** architecture, splitting logic int
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 To run these projects without conflicts, organize your folders as follows:
 
