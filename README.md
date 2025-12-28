@@ -4,7 +4,6 @@ This repository contains a collection of five Python projects focused on Informa
 
 Each project follows a **Modular Programming** architecture, splitting logic into distinct files for better maintainability and readability.
 
----
 
 ## Repository Structure
 
