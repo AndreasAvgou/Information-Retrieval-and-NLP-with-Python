@@ -17,7 +17,7 @@ To run these projects without conflicts, organize your folders as follows:
 └── 5_Recommender/   # ML-Based Recommendation System
 ```
 
-## 🛠️ Prerequisites & Installation
+## Prerequisites & Installation
 
 All projects require **Python 3.x**. You can install all necessary dependencies for the entire suite using the following command:
 
