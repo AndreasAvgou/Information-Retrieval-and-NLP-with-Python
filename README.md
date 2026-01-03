@@ -25,7 +25,7 @@ All projects require **Python 3.x**. You can install all necessary dependencies 
 pip install nltk matplotlib pandas numpy scipy scikit-learn
 ```
 
-## 📝 Project Summaries
+## Project Summaries
 
 ### 1️⃣ Project 1: Text Processing and Analysis with NLTK
 **Objective:** Learn the basics of NLP including tokenization, POS tagging, and Named Entity Recognition (NER).
