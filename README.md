@@ -98,7 +98,7 @@ cd Project5_Recommender
 python main.py
 ```
 
-## 👨‍💻 Technical Details
+## Technical Details
 
 All projects follow this execution flow:
 
