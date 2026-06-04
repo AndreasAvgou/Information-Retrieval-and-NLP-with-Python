@@ -1,4 +1,11 @@
-# Information Retrieval & NLP with Python
+<div align="center">
+<img width="1024" height="512" alt="natural-language-processing-nlp" src="https://github.com/user-attachments/assets/3d5b2b74-28ab-4c7b-8f05-1a1a5a61a854" />
+
+
+ # Information Retrieval & NLP with Python
+  
+</div>
+
 
 This repository contains a collection of five Python projects focused on Information Retrieval (IR), Natural Language Processing (NLP), and Machine Learning.
 
